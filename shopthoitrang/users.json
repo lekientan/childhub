@@ -1,0 +1,14 @@
+[
+    {
+        "name": "milo",
+        "email": "abc@gmail.com",
+        "password": "$2y$10$rcBVx91xoPgOShovzKJ\/KOUCqqciL1uSt.Ol62bljDropR1hfSS.K",
+        "registered_at": "2025-11-26 21:56:59"
+    },
+    {
+        "name": "milo",
+        "email": "abc123@gmail.com",
+        "password": "$2y$10$H9yPLeY7ImM91FuV\/Wkh9O1mGvWl7i5LWLK8VLEurHw7UZl95FG1C",
+        "registered_at": "2025-11-26 21:58:20"
+    }
+]
